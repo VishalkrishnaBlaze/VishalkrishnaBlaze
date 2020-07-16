@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m an under graduate currently pursuing my Bachelor's degree in Computer Science and Engineering.
+- I have a good knowledge of Data Science and Machine Learning algorithms.
+- Currently I am trying to better understand a bit more on the princiles and appilcations of Reinforcement Learning
+
+![MY GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalkrishnaBlaze&show_icons=true&hide=["contribs","prs"])
